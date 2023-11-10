@@ -20,3 +20,10 @@ Documenting the natural diversity of compilers and runtimes
 - [emscripten](https://github.com/emscripten-core/emscripten)
 - [wasmtime](https://github.com/bytecodealliance/wasmtime)
 
+# Python
+
+- [cpython](https://github.com/python/cpython)
+- [jython](https://github.com/jython/jython/)
+- [micropython](https://github.com/micropython/micropython)
+- [pypy](https://foss.heptapod.net/pypy/pypy)
+
