@@ -12,7 +12,7 @@ Documenting the natural diversity of compilers and runtimes
 - [GraalVM](https://github.com/graalvm)
 - [OpenJ9](https://github.com/eclipse-openj9/openj9/blob/master/doc/build-instructions/Build_Compiler_Only.md)
 - [eclipse-jdt](https://github.com/eclipse-jdt/eclipse.jdt.core)
-- [CheerpJ](https://labs.leaningtech.com/cheerpj3)(in WebAssembly)
+- [CheerpJ] (https://labs.leaningtech.com/cheerpj3)(in WebAssembly)
 
 # Webassembly
 
